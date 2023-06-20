@@ -153,6 +153,11 @@ a:hover {
     margin: 0;
 }
 
+.btn-join:hover {
+    background: var(--primary-color);
+    color: #ffffff !important;
+}
+
 @media screen and (max-width: 992px) {
     #top {
         padding-top: 3rem;
